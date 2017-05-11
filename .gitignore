@@ -1,0 +1,12 @@
+data
+*.txt
+*.pyc
+new_observables.py
+scroll_es_data.py
+daily_new_observables.py
+filterip.py
+test.py
+es_ip_port.py
+.idea
+*.xml
+body.py
